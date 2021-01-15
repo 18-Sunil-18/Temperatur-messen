@@ -34,3 +34,6 @@ d= minimum Ausgabewert
 e= maximum Ausgabewert
 
 Nach der Umwandlung des analogen Messwertes in einen Temperaturwert, wird dieser mit dem Befehl „Serial.print(temperatur);“ an den seriellen Monitor gesendet und kann dann am PC abgelesen werden.
+
+
+Weitere Infos unter: https://funduino.de/
